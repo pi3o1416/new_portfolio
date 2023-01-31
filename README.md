@@ -12,7 +12,6 @@
   </ul>
   <li><a href="#built-with">Built With</a></li>
   <li><a href="#author">Author</a></li>
-  <li><a href="#license">License</a></li>
 </ul>
 
 <h2 id="getting-started">Getting Started</h2>
@@ -54,8 +53,4 @@ git clone https://github.com/your-username/portfolio.git
 <h2 id="author">Author</h2>
 
 <p>Monir Hossain</p>
-
-<h2 id="license">License</h2>
-
-<p>This project is licensed under the MIT License - see the <a href="LICENSE.md">LICENSE.md</a> file for details.</p>
 
